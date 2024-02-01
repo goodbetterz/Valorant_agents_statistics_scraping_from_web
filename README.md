@@ -15,5 +15,8 @@ To learn how to scrape data from website with Python and essential libraries.
 - **`requests`** : The requests module allows you to send HTTP requests using Python. [**(ref: w3schools)**](https://www.w3schools.com/python/module_requests.asp)
 - **`pandas`** : is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language. [**(ref: pandas.pydata.org)**](https://pandas.pydata.org/)
 
+## Final Result
+All csv file results are in the [**agents_data**](agents_data/) folder.
+
 ## Other
 Thank you for the blitz.gg website that allows to scrape data for learning.
