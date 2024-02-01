@@ -1,4 +1,9 @@
 # Valorant Agents Statistics Scraping from Web
+
+<p align="center">
+<img src="images/blitz.png" alt="blitz" width="40%"/>
+</p>
+
 ## Introduction
 This repository contains one Python script that will able to scrape the Valorant agents statistics data from blitz.gg and save those data into csv file.
 
